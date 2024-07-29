@@ -1,2 +1,1 @@
-# thembanzuza.com
-Portfolio 
+Responsive Website Portfolio 
